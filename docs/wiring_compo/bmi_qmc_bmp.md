@@ -10,6 +10,9 @@ This README provides the pin mapping and configuration instructions for building
 * **Compass (Magnetometer):** QMC5883L / GY-271 (Connected via I2C for navigation/rescue features)
 * **Barometer (Altitude):** BMP280 (Connected via I2C for Altitude Hold features)
 
+## Config builtin by definition
+[HARDWARE ROUTING](../../lib/Espfc/src/Target/TargetESP32s3.h)
+
 ---
 
 ## Wiring & Pin Mapping Tables
